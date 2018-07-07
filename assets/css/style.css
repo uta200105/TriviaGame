@@ -1,0 +1,52 @@
+/*Background Image*/
+img {
+width: 100%;
+height: auto;
+}
+    
+#container {
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+/* Title */
+.top-center {
+    position: absolute;
+    top: 215px;
+    right: 300px;
+    color: white;
+    font-size: 35px;
+}
+ /* Timer */
+  
+  #timer {
+    font-family: monospace;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    background: blueviolet;
+    border: double;
+    border-color: white;
+  }
+  
+  #stopWatch {
+    position: absolute;
+    top: 130px;
+    right: 630px;
+    font-size: 20px;
+  }
+
+  #buttons {
+    text-align: center;
+  }
+  
+  button {
+    width: 75px;
+    height: 50px;
+    background: blueviolet;
+    border: double;
+    border-color: white;
+    color: white;
+  }
+
+  
